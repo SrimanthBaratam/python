@@ -28,8 +28,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrimanthBaratam/python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/SrimanthBaratam/python/tree/master/0125-valid-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SrimanthBaratam/python/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/SrimanthBaratam/python/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
