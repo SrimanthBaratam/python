@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SrimanthBaratam/python/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrimanthBaratam/python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/SrimanthBaratam/python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SrimanthBaratam/python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrimanthBaratam/python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/SrimanthBaratam/python/tree/master/0238-product-of-array-except-self) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SrimanthBaratam/python/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SrimanthBaratam/python/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SrimanthBaratam/python/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -39,11 +41,13 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SrimanthBaratam/python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/SrimanthBaratam/python/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SrimanthBaratam/python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SrimanthBaratam/python/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SrimanthBaratam/python/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SrimanthBaratam/python/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
