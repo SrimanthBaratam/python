@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/SrimanthBaratam/python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrimanthBaratam/python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/SrimanthBaratam/python/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SrimanthBaratam/python/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/SrimanthBaratam/python/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SrimanthBaratam/python/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SrimanthBaratam/python/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/SrimanthBaratam/python/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SrimanthBaratam/python/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SrimanthBaratam/python/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
