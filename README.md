@@ -20,6 +20,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SrimanthBaratam/python/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SrimanthBaratam/python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrimanthBaratam/python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SrimanthBaratam/python/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrimanthBaratam/python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SrimanthBaratam/python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SrimanthBaratam/python/tree/master/0125-valid-palindrome) |
@@ -43,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SrimanthBaratam/python/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SrimanthBaratam/python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SrimanthBaratam/python/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SrimanthBaratam/python/tree/master/0125-valid-palindrome) |
