@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SrimanthBaratam/python/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/SrimanthBaratam/python/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SrimanthBaratam/python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SrimanthBaratam/python/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SrimanthBaratam/python/tree/master/0125-valid-palindrome) |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SrimanthBaratam/python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SrimanthBaratam/python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
