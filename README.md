@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SrimanthBaratam/python/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrimanthBaratam/python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SrimanthBaratam/python/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SrimanthBaratam/python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SrimanthBaratam/python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrimanthBaratam/python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SrimanthBaratam/python/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SrimanthBaratam/python/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SrimanthBaratam/python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrimanthBaratam/python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -41,6 +43,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SrimanthBaratam/python/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrimanthBaratam/python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SrimanthBaratam/python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/SrimanthBaratam/python/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/SrimanthBaratam/python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SrimanthBaratam/python/tree/master/0141-linked-list-cycle) |
 ## Prefix Sum
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrimanthBaratam/python/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SrimanthBaratam/python/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +82,10 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SrimanthBaratam/python/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SrimanthBaratam/python/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
 >>>>>>> 48c964c6de35881adb3e541335aeaf8fb9c6aae5
 "# online-quiz-system" 
