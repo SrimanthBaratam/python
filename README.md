@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrimanthBaratam/python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/SrimanthBaratam/python/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SrimanthBaratam/python/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/SrimanthBaratam/python/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +68,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrimanthBaratam/python/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/SrimanthBaratam/python/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
 >>>>>>> 48c964c6de35881adb3e541335aeaf8fb9c6aae5
 "# online-quiz-system" 
